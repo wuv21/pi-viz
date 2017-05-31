@@ -1,0 +1,17 @@
+@import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic);
+
+body {
+    background-color: rgba(0, 0, 0, 0.9);
+    color: #E9E9E9;
+    font-weight: 300;
+
+}
+
+.gray-text {
+    color: #A0A0A0;
+}
+
+h1 {
+    font-weight: 300;
+}
